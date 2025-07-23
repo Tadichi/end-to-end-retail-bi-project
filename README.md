@@ -93,9 +93,9 @@ The data model was structured using a **star schema** with the following tables:
 
 ## 7. 📁 Resources
 
-- **Power BI Report**: <a href="[https://github.com/Tadichi/maven-toys-data-analysis/blob/main/toy_sales.pbix](https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/retail_sales.pbix)">pbix_file</a>
-- **SQL Script**: <a href="[https://github.com/Tadichi/maven-toys-data-analysis/blob/main/SQL%20Queires.sql](https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/SQL_cleaned.sql)">SQL_file</a>
- CSV Data: <a href="[https://github.com/Tadichi/maven-toys-data-analysis/tree/main/Project%20Files](https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/retail_store_sales.csv)">Dataset</a>
+- **Power BI Report**: <a href="https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/retail_sales.pbix">pbix_file</a>
+- **SQL Script**: <a href="https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/SQL_cleaned.sql">SQL_file</a>
+ CSV Data: <a href="https://github.com/Tadichi/end-to-end-retail-bi-project/blob/main/retail_store_sales.csv">Dataset</a>
 
 ## 8. 🙌 Let's Connect
 
